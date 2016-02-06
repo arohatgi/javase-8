@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import com.amit.javase8.exercise4.*?>
+<Person xmlns:fx="http://javafx.com/fxml" fx:controller="com.javase8.exercise4.C4E8">
+    <name>
+        <Name fx:id="name" firstname="John" lastname="Black"/>
+    </name>
+    <address>
+        <Address fx:id="address" street="Mainstr" city="Maintown" postalCode="12345"/>
+    </address>
+</Person>
